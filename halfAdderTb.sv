@@ -11,8 +11,7 @@ module halfAdderTestbench;
   
   halfAdder inst1(.a(a),.b(b),.sum(sum),.cout(cout));
   
-  initial
-  begin  
+  initial begin  
     
     $dumpfile("dump.vcd");
     $dumpvars(1);
