@@ -1,6 +1,6 @@
 /*
 Authors: Bryan Pesquera
-Description: Half adder testbench simulated 
+Description: Half adder test bench simulated 
 using Icarus Verilog 0.10.0 11/23/14 on edaplayground.com
 Date: Feb. 2, 2017.
 */
